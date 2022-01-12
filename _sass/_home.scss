@@ -442,13 +442,13 @@ ul.posts li {
 }
 
 ul.posts .post-date {
-    display: inline-block;
     vertical-align: baseline;
     zoom: 1;
     *display: inline;
     *vertical-align: auto;
     width: 130px;
     text-transform: uppercase;
+    float: right;
     color: #999;
     font-size: 14px;
     text-align: right;
